@@ -4,3 +4,6 @@ git log
 git reflog
 git checkout -- b.txt
 git reset HEAD b.txt
+git branch dev
+git checkout dev
+git push origin master
