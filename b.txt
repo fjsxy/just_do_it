@@ -3,3 +3,4 @@ git reset --hard 0195b
 git log
 git reflog
 git checkout -- b.txt
+git reset HEAD b.txt
