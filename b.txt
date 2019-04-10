@@ -8,3 +8,4 @@ git branch dev
 git checkout dev
 git push origin master
 git merge dev
+git log --graph
