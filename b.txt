@@ -7,4 +7,4 @@ git reset HEAD b.txt
 git branch dev
 git checkout dev
 git push origin master
-git merge master
+git merge dev
