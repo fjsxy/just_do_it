@@ -3,3 +3,4 @@ git add a.txt
 git commit -m "a.txt added"
 git status
 git diff a.txt
+xxxxxxxxxxxx
